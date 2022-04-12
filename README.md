@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,&height=250&section=header&text=Binis%20Git&fontSize=60&fontColor=7774b6&fontAlign=84&fontAlignY=60&descAlignY=10)
 <div align="center">
+    
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sianus&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  <a href="https://solved.ac/defi622"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=defi622"/></a>
 <h3 align="right"> 🥇 Tech 😋 </h3>
 
   <p align="right">I can use...</p>
@@ -31,10 +34,7 @@
   <a href="https://blog.naver.com/tlsdnqls622"><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>&nbsp
 </p>
 
-<h3> 🛰️ SNS 🛰️ </h3>
-<p>
+<h3 align="right"> 🛰️ SNS 🛰️ </h3>
+<p align="right">
   <a href="https://www.instagram.com/bini_vvw0.0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:defi622@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-  

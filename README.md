@@ -33,5 +33,5 @@
 <h3 align="center"> 🛰️ SNS 🛰️ </h3>
 <p align="center">
   <a href="https://www.instagram.com/bini_vvw0.0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
-  <a href="defi622@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
+  <a href="mailto:defi622@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
   

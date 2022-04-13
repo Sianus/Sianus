@@ -13,7 +13,7 @@
    <a>In University of Ulsan, IT</a> 
   
   ---
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sianus&theme=graywhite&layout=demo&langs_count=10"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sianus&hide=Jupyter Notebook&theme=graywhite&layout=demo&langs_count=10"/>
     <h3 align="left"> ☄️I can use...☄️ </h3>
     <p align = "left">
        <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>

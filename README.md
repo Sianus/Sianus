@@ -5,7 +5,7 @@
   ### 💡 Bini's Data 💡
    <a href="https://solved.ac/defi622"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=defi622"/></a>
    <a href="https://bestasus.tistory.com/"><img src="https://img.shields.io/badge/Tistory_Blog-231F20?style=flat-square&logo=telegraph&logoColor=white"/></a>
-   <a href="https://blog.naver.com/tlsdnqls622"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+   <a href="https://velog.io/@sianus"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
     </p>
     
   ---
